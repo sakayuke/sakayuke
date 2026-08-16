@@ -92,6 +92,16 @@
 
 ---
 
+<h2 align="center">Contacts</h2>
+
+<p align="center">
+  Telegram username: @swagonsaka<br>
+  Discord username: sakayuke<br>
+  Mail: yu.brechka@gmail.com<br>
+</p>
+
+---
+
 <div align="center">
 
 ### `sakayuke@github:~$ whoami`
