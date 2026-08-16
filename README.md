@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=F05454&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Yulian;Software+Developer;C%2B%2B+%7C+JavaScript+%7C+Python;aka+sakayuke"
@@ -102,5 +101,4 @@
 *Code. Learn. Build. Repeat.*
 
 </div>
-```
 ::: ​​
